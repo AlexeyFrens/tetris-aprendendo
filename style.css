@@ -142,7 +142,7 @@
   
   @media (max-width: 470px) {
     .content-right {
-      margin-left: 26px;
+      margin: 0px;
     }
   
     .content-right h3 {
