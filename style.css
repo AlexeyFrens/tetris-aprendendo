@@ -153,4 +153,8 @@
     .score {
       display: block;
     }
+      
+    .container{
+      padding: 0px;
+    }
   }
